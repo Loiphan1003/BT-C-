@@ -1,0 +1,16 @@
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.exe
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.deps.json
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.runtimeconfig.json
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.runtimeconfig.dev.json
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.dll
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\ref\Lab01-02.dll
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\bin\Debug\net5.0\Lab01-02.pdb
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.csproj.AssemblyReference.cache
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.AssemblyInfoInputs.cache
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.AssemblyInfo.cs
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.csproj.CoreCompileInputs.cache
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.dll
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\ref\Lab01-02.dll
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.pdb
+D:\HUTECH\Thực Hành Lập Trình Trên Môi Trường Windows\Bai1\Lab01-02\obj\Debug\net5.0\Lab01-02.genruntimeconfig.cache
