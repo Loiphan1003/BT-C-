@@ -17,11 +17,11 @@ namespace Lab01_02
         public Student() { }
         public Student(string fullName, string id, string faculty, string gender) :base(fullName, id)
         {
-            this.Faculty = Faculty;
+            this.Faculty = faculty;
             this.Gender = gender;
         } 
 
-        public void Input()
+        public new void Input()
         {
             base.Input();
             Console.Write("Nhập Khoa: ");
@@ -30,7 +30,7 @@ namespace Lab01_02
             Faculty = Console.ReadLine();            
         }
 
-        public  void Show()
+        public new  void Show()
         {
             base.Show();
             Console.Write("Khoa: {0} Giới tính: {1}",this.Faculty, this.Gender);
