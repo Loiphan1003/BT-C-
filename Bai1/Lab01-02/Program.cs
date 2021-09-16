@@ -12,7 +12,7 @@ namespace Lab01_02
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine(" Nhập số lượng cần nhập");
 
-            List<Person> list = new List<Person>(n);
+            List<Person> list = new List<Person>();
 
             bool flag = true;
             do {                
@@ -119,7 +119,7 @@ namespace Lab01_02
             Console.WriteLine("Xuất thông tin sinh viên IT có điểm trung bình cao nhất");
             foreach(Person p in list)
             {
-                if(p is Student && (p as Student).Faculty.Equals("CNTT") && (p as Student).AverageScore is float.MaxValue)
+                if(p is Student && (p as Student).Faculty.Equals("CNTT") && ((p as Student).AverageScore is float.MaxValue))
                 {
                     (p as Student).Show();
                 }
